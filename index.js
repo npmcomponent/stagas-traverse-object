@@ -11,8 +11,8 @@
  * Module dependencies.
  */
 
-var type = require('type'),
-    indexof = require('indexof');
+var type = require('component-type'),
+    indexof = require('component-indexof');
 
 /**
  * Traverse.
